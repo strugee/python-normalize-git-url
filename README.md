@@ -15,6 +15,7 @@ normalized = ngu("git+ssh://git@github.com:organization/repo.git#hashbrowns")
 #   url : "ssh://git@github.com/organization/repo.git",
 #   branch : "hashbrowns" # did u know hashbrowns are delicious?
 # }
+```
 
 ## API
 
